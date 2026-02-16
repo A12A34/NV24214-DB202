@@ -1,0 +1,2 @@
+use NVTC
+db.createCollection("STUDENTS")

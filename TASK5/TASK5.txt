@@ -1,0 +1,3 @@
+use NCST
+db.createCollection("STUDENTS")
+db.STUDENTS.insertOne({NAME : "Ali Alhasan"})
