@@ -1,0 +1,10 @@
+use('ITSTUDENTS')
+// in terminal " use ITSTUDENTS "
+db.createCollection("GRADE11")
+db.GRADE11.insertOne(
+    {
+     NAME :  "Ali Alhasan",
+     NVNO : "nv24214",
+     EMAIL : "email@gmail.com",
+     MOBILE_NO : "12345678" }
+)
