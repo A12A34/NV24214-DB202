@@ -38,6 +38,14 @@ TASKS/
     TASK24/
     TASK25/
     TASK26/
+  WEEK-09/
+    TASK27/
+    TASK28/
+    TASK29/
+    TASK30/
+  WEEK-10/
+    TASK31/
+    TASK32/
 ```
 
 ## Mapping From Reference
@@ -47,6 +55,8 @@ TASKS/
 - `WEEK-05` contains `TASK8`, `TASK9`, `TASK11`, `TASK12`, `TASK13`, and `TASK14`.
 - `WEEK-06` contains `TASK15` to `TASK20`.
 - `WEEK-07` contains `TASK21` to `TASK26`.
+- `WEEK-09` contains `TASK27` to `TASK30`.
+- `WEEK-10` contains `TASK31` and `TASK32`.
 
 ## Notes
 
